@@ -26,9 +26,8 @@ El proyecto simula una tienda online de comida con funcionalidades completas de 
 - TypeScript
 - Vite
 - HTML5
-- CSS3
-- LocalStorage API
-- DOM API
+- CSS
+
 
 ---
 
